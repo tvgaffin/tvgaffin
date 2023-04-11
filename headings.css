@@ -1,0 +1,13 @@
+@charset "utf-8";
+.list_headings {
+    color: #000063;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-large;
+}
+h1 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+    color: #000057;
+}

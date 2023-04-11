@@ -1,0 +1,8 @@
+@charset "utf-8";
+.list_bullentins {
+    color: #000063;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: medium;
+}
