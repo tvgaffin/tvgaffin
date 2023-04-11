@@ -1,4 +1,4 @@
-### Hi there 👋. This is my landing page to my site.
+### Hi there 👋. This is my landing page to my site. Please send a pull requests if you would like to make changes.
 
 <!--
 **tvgaffin/tvgaffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
