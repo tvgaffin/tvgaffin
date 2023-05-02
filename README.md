@@ -1,4 +1,4 @@
-### Hi there 👋. This is my landing page to my site. Please send a pull requests if you would like to make changes.
+### Hi there 👋. This is my landing page to my site. This page is a dediation to my love of art and how it has helped me cope with my mental health struggles. Please send a pull requests if you would like to make changes.
 
 <!--
 **tvgaffin/tvgaffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
